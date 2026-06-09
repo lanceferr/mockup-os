@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Mockup\\mockup-os\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\main.cpp",
+              "RelativeDocumentMoniker": "mockup-os\\main.cpp",
+              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\main.cpp",
+              "RelativeToolTip": "mockup-os\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-09T09:54:34.406Z",
+              "EditorCaption": ""
             }
           ]
         }

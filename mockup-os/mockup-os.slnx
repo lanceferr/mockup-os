@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="mockup-os/mockup-os.vcxproj" />
+  <Project Path="mockup-os/mockup-os.vcxproj" Id="1c03291a-6fa4-4029-a724-aa158720e002" />
 </Solution>
