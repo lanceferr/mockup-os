@@ -1,0 +1,54 @@
+# ==========================================
+# Visual Studio Build and Artifacts
+# ==========================================
+# User-specific files (layout, opened files, etc.)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories (Output and Intermediate files)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+$DirectoryClean$
+
+# Visual Studio 2015/2017/2019/2022 cache directories
+.vs/
+
+# ==========================================
+# C++ Compiler & Linker Outputs
+# ==========================================
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# ==========================================
+# Dear ImGui Specifics
+# ==========================================
+# ImGui automatically saves UI window layouts here. 
+# You usually want to ignore this so developers can customize their own layouts.
+imgui.ini
+
+# ==========================================
+# Package Managers (If you use them)
+# ==========================================
+# vcpkg (Common for Visual Studio C++)
+vcpkg_installed/
+.vcpkg-root
+
+# Conan
+conan/
+conanbuildinfo.txt
+conanfile.txt.user
