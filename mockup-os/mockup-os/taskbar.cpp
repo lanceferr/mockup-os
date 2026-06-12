@@ -104,7 +104,7 @@ void DrawSystemInfo(AppState& st, float /*sw*/, float sh) {
         Row("Kernel", "csopesy-kernel");
         Row("Architecture", "x86_64 (64-bit)");
         ImGui::Separator();
-        Row("CPU", "AMD Ryzen 5 5600 6-Core Processor3.5GHz");
+        Row("CPU", "AMD Ryzen 5 5600 6-Core Processor 3.5GHz");
         Row("Cores / Threads", "6 Cores / 12 Threads");
         Row("CPU Usage", "23.4 %", Pal::Yellow);
         ImGui::Separator();

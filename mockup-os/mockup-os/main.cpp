@@ -1,4 +1,4 @@
-#include "background.h" // Added your new header
+#include "background.h"
 #include "taskbar.h"
 #include "task_manager.h"
 #include "imgui-docking/backends/imgui_impl_glfw.h"
@@ -64,7 +64,7 @@ int main() {
         float sh = io.DisplaySize.y;
 
         // Render Desktop Background first so it stays behind the taskbar/manager
-        RenderDesktop(window);
+        DrawDesktop(window);
 
         // Your existing elements rendered on top
         DrawTaskbar(state, sw, sh);

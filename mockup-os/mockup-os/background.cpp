@@ -3,7 +3,7 @@
 #include "imgui-docking/imgui.h"
 #include <ctime>   // Required for the clock
 
-void RenderDesktop(GLFWwindow* window)
+void DrawDesktop(GLFWwindow* window)
 {
     int screenW, screenH;
     glfwGetWindowSize(window, &screenW, &screenH);
