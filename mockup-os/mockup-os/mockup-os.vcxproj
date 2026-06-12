@@ -148,7 +148,6 @@
     <ClCompile Include="imgui-docking\imgui_tables.cpp" />
     <ClCompile Include="imgui-docking\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="oldmain.cpp" />
     <ClCompile Include="taskbar.cpp" />
     <ClCompile Include="task_manager.cpp" />
     <ClCompile Include="task_manager.h" />
