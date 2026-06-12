@@ -1,4 +1,6 @@
 #pragma once
+
+#include "palette.h"
 #include <string>
 #include <vector>
 
@@ -10,4 +12,4 @@ struct Process {
 };
 
 std::string formatProcessName(const std::string& name, size_t maxLen);
-void renderUI(const std::vector<Process>& processes);
+void DrawTaskManager(bool& show, float sw, float sh, const std::vector<Process>& processes);

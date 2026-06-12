@@ -139,9 +139,21 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="imgui-docking\backends\imgui_impl_glfw.cpp" />
+    <ClCompile Include="imgui-docking\backends\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="imgui-docking\imgui.cpp" />
+    <ClCompile Include="imgui-docking\imgui_demo.cpp" />
+    <ClCompile Include="imgui-docking\imgui_draw.cpp" />
+    <ClCompile Include="imgui-docking\imgui_tables.cpp" />
+    <ClCompile Include="imgui-docking\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="taskbar.cpp" />
     <ClCompile Include="task_manager.cpp" />
     <ClCompile Include="task_manager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="palette.h" />
+    <ClInclude Include="taskbar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
