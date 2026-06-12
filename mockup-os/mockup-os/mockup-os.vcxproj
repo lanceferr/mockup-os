@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="background.cpp" />
     <ClCompile Include="imgui-docking\backends\imgui_impl_glfw.cpp" />
     <ClCompile Include="imgui-docking\backends\imgui_impl_opengl3.cpp" />
     <ClCompile Include="imgui-docking\imgui.cpp" />
@@ -147,11 +148,13 @@
     <ClCompile Include="imgui-docking\imgui_tables.cpp" />
     <ClCompile Include="imgui-docking\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="oldmain.cpp" />
     <ClCompile Include="taskbar.cpp" />
     <ClCompile Include="task_manager.cpp" />
     <ClCompile Include="task_manager.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="background.h" />
     <ClInclude Include="palette.h" />
     <ClInclude Include="taskbar.h" />
   </ItemGroup>

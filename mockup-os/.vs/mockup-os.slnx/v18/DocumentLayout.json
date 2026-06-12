@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\taskbar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\taskbar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\task_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\task_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\taskbar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\taskbar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\task_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\task_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\palette.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\task_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\task_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\palette.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\palette.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\taskbar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\oldmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\oldmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\task_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\task_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C03291A-6FA4-4029-A724-AA158720E002}|mockup-os\\mockup-os.vcxproj|solutionrelative:mockup-os\\taskbar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +58,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "palette.h",
-              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\palette.h",
-              "RelativeDocumentMoniker": "mockup-os\\palette.h",
-              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\Actual_Mockup\\mockup-os\\mockup-os\\palette.h",
-              "RelativeToolTip": "mockup-os\\palette.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "background.h",
+              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\background.h",
+              "RelativeDocumentMoniker": "mockup-os\\background.h",
+              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\background.h",
+              "RelativeToolTip": "mockup-os\\background.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T06:36:45.044Z",
+              "WhenOpened": "2026-06-12T07:00:27.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "oldmain.cpp",
+              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\oldmain.cpp",
+              "RelativeDocumentMoniker": "mockup-os\\oldmain.cpp",
+              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\oldmain.cpp",
+              "RelativeToolTip": "mockup-os\\oldmain.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-12T06:59:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "background.cpp",
+              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\background.cpp",
+              "RelativeDocumentMoniker": "mockup-os\\background.cpp",
+              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\background.cpp",
+              "RelativeToolTip": "mockup-os\\background.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-12T06:56:55.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "palette.h",
+              "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\palette.h",
+              "RelativeDocumentMoniker": "mockup-os\\palette.h",
+              "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\palette.h",
+              "RelativeToolTip": "mockup-os\\palette.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-12T06:36:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "task_manager.cpp",
               "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\task_manager.cpp",
               "RelativeDocumentMoniker": "mockup-os\\task_manager.cpp",
@@ -72,20 +121,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "taskbar.h",
               "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.h",
               "RelativeDocumentMoniker": "mockup-os\\taskbar.h",
               "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.h",
               "RelativeToolTip": "mockup-os\\taskbar.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T06:21:40.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T06:21:40.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "task_manager.h",
               "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\task_manager.h",
               "RelativeDocumentMoniker": "mockup-os\\task_manager.h",
@@ -93,31 +141,29 @@
               "RelativeToolTip": "mockup-os\\task_manager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T06:21:17.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T06:21:17.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "taskbar.cpp",
               "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.cpp",
               "RelativeDocumentMoniker": "mockup-os\\taskbar.cpp",
               "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\taskbar.cpp",
               "RelativeToolTip": "mockup-os\\taskbar.cpp",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAswFsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-12T06:20:57.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T06:20:57.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\main.cpp",
               "RelativeDocumentMoniker": "mockup-os\\main.cpp",
               "ToolTip": "C:\\MAIN_FILES\\Documents\\DLSU\\3rd Year\\3rd Term\\CSOPESY\\actual_mockup\\mockup-os\\mockup-os\\main.cpp",
               "RelativeToolTip": "mockup-os\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-09T09:54:34.406Z",
               "EditorCaption": ""

@@ -54,12 +54,21 @@
     <ClCompile Include="taskbar.cpp">
       <Filter>Source Files\COMPONENTS</Filter>
     </ClCompile>
+    <ClCompile Include="background.cpp">
+      <Filter>Source Files\COMPONENTS</Filter>
+    </ClCompile>
+    <ClCompile Include="oldmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taskbar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="palette.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="background.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
