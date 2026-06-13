@@ -1,6 +1,7 @@
 #include "background.h"
 #include "taskbar.h"
 #include "task_manager.h"
+#include "start_menu.h"
 #include "imgui-docking/backends/imgui_impl_glfw.h"
 #include "imgui-docking/backends/imgui_impl_opengl3.h"
 #include <GLFW/glfw3.h>
@@ -70,6 +71,7 @@ int main() {
         DrawTaskbar(state, sw, sh);
         DrawTaskManager(state.showTaskManager, sw, sh, processes);
         DrawSystemInfo(state, sw, sh);
+        DrawStartMenu(state, sw, sh);
 
         ImGui::Render();
         int fb_w, fb_h;
